@@ -1,4 +1,17 @@
-Lien de téléchargement des questions en .csv : 
-https://docs.google.com/spreadsheets/d/e/2PACX-1vT1aGnC0w_8tdLizE5NTXX0NI5u-shqK4qikxTqh4omMzYkVup5fx9KedGn-J4AOOuT_n3EA18maMLd/pub?gid=0&single=true&output=csv
+# Quiz & Flashcard for EPL
 
-Il suffit de lancer main.html haha
+## Goals
+
+I want to build a simple yet useful and helpful "webapp" that will help students memorize some flashcard. It's like a quizlet but free and open-source.
+
+## Roadmap
+
+- [ ] Develop an algorithm to help with learning and tracking progress of the student
+- [ ] Polish the tkinter interface
+- [ ] Migrate the JS logic to flask
+- [ ] Make it more versatile and storing a big database of questions that students can use
+
+## License
+
+Original project is not mine.
+
